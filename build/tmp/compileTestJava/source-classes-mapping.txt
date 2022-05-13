@@ -1,0 +1,18 @@
+co/com/nisum/persistence/phone/PhoneDataProviderAdapterTest.java
+ co.com.nisum.persistence.phone.PhoneDataProviderAdapterTest
+co/com/nisum/domain/usecase/user/GetUsersUseCaseTest.java
+ co.com.nisum.domain.usecase.user.GetUsersUseCaseTest
+co/com/nisum/domain/usecase/phone/CreatePhoneUseCaseTest.java
+ co.com.nisum.domain.usecase.phone.CreatePhoneUseCaseTest
+co/com/nisum/domain/usecase/token/GenerateTokenUseCaseTest.java
+ co.com.nisum.domain.usecase.token.GenerateTokenUseCaseTest
+co/com/nisum/persistence/session/SessionDataProviderAdapterTest.java
+ co.com.nisum.persistence.session.SessionDataProviderAdapterTest
+co/com/nisum/domain/usecase/session/CreateSessionUseCaseTest.java
+ co.com.nisum.domain.usecase.session.CreateSessionUseCaseTest
+co/com/nisum/domain/usecase/user/LoginUseCaseTest.java
+ co.com.nisum.domain.usecase.user.LoginUseCaseTest
+co/com/nisum/persistence/user/UserDataProviderAdapterTest.java
+ co.com.nisum.persistence.user.UserDataProviderAdapterTest
+co/com/nisum/domain/usecase/user/CreateUserUseCaseTest.java
+ co.com.nisum.domain.usecase.user.CreateUserUseCaseTest
